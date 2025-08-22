@@ -1,0 +1,38 @@
+[
+  {
+    "url": "/data/membuat-worker-pertama",
+    "title": "Cara Mudah Membuat Cloudflare Worker Pertama",
+    "author": "Budi Santoso",
+    "date": "2024-05-10"
+  },
+  {
+    "url": "/data/panduan-seo-worker",
+    "title": "Panduan Lengkap Optimasi SEO Menggunakan Worker",
+    "author": "Citra Dewi",
+    "date": "2024-05-15"
+  },
+  {
+    "url": "/data/cara-pasang-iklan-melayang",
+    "title": "Tutorial Pasang Iklan Melayang dengan Worker",
+    "author": "Budi Santoso",
+    "date": "2024-05-20"
+  },
+  {
+    "url": "/data/tentang-cloudflare-pages",
+    "title": "Mengenal Lebih Dekat Cloudflare Pages",
+    "author": "Agus Salim",
+    "date": "2024-05-25"
+  },
+  {
+    "url": "/data/membuat-sitemap-otomatis",
+    "title": "Membuat Sitemap Otomatis dengan Worker dan KV Store",
+    "author": "Citra Dewi",
+    "date": "2024-06-01"
+  },
+  {
+    "url": "/data/analisis-trafik-website",
+    "title": "Analisis Trafik Website Menggunakan Worker",
+    "author": "Budi Santoso",
+    "date": "2024-06-05"
+  }
+]
